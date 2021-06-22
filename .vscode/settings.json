@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "D:\\ProgramData\\Anaconda3\\envs\\pinoy_adobo\\python.exe"
+    "python.pythonPath": "D:\\ProgramData\\Anaconda3\\envs\\pinoy_adobo\\python.exe",
+    "jupyter.jupyterServerType": "local"
 }
